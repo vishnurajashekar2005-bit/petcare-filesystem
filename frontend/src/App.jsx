@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import PetForm from "./components/PetForm";
 
-const API_URL = "http://localhost:8000/pets";
+const API_URL = "https://petcare-filesystem.onrender.com/pets";
 
 function App() {
   const [pets, setPets] = useState([]);
