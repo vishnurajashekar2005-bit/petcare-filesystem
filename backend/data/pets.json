@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "owner": "Vishnu",
+    "phone": "9876543210",
+    "pet": "Dog"
+  },
+  {
+    "id": 2,
+    "owner": "Rahul",
+    "phone": "9876543211",
+    "pet": "Cat"
+  },
+  {
+    "owner": "suraj",
+    "phone": "78926155",
+    "pet": "bull",
+    "id": 3
+  }
+]
